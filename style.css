@@ -9,12 +9,13 @@
 }
 
 .foto{
-    width: 80vw;
+    width: 20vw;
     height: 50vh;
-    background-image: url('image/ningning kembaran ale ungu.jpg');
+    background-image: url('image/ningning1.jpg');
     background-repeat: no-repeat;
     background-size: contain;
     margin-left: 8%;
+    border-radius: 200%;
 }
 
 .tentang saya{
