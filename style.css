@@ -1,0 +1,22 @@
+
+.atas{
+    font-family: Verdana;
+    text-align: center;
+    color:beige;
+    background-color: maroon;
+    padding: 2%;
+
+}
+
+.foto{
+    width: 80vw;
+    height: 50vh;
+    background-image: url('image/ningning kembaran ale ungu.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 8%;
+}
+
+.tentang saya{
+
+}
